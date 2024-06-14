@@ -7,10 +7,12 @@ As you read signs or talk to people, the
 response you get will be different
 depending on the quest you are on
 
-Tiles.Csv - You can add new tiles to the game![q1](https://github.com/Billvbcode/Advanced-RPG/assets/74204458/b91984bf-1de7-45fa-ab3f-c0f25ce542d6)
+Tiles.Csv - You can add new tiles to the game
+![q1](https://github.com/Billvbcode/Advanced-RPG/assets/74204458/b91984bf-1de7-45fa-ab3f-c0f25ce542d6)
 
   TileName, OldChr, Type, MapTile
 
+ ![q2](https://github.com/Billvbcode/Advanced-RPG/assets/74204458/54c06e17-453a-4406-aab2-ede906e12851)
 ******MagicPoints***** 
 MagicPoints < 15  None 
 MagicPoints > 14 And MagicPoints < 25  Thoughts
